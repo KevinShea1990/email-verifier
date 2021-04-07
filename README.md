@@ -157,6 +157,7 @@ This means that the server does not allow real-time verification of an email rig
 - [check-if-email-exists](https://github.com/amaurymartiny/check-if-email-exists)
 - disposable domains from [disposable/disposable](https://github.com/disposable/disposable)
 - free provider data from [willwhite/freemail](https://github.com/willwhite/freemail)
+- free online email verification service from [FreeMailVerifier](https://freemailverifier.com)
 
 ## Contributing
 
